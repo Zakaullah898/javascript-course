@@ -4,3 +4,4 @@ let roleNo = 12
 let seatNo = 5
 let className = '9Th'
 console.table([studentName,roleNo,seatNo,className])
+console.log(`The Role Number is : ${roleNo}`)
